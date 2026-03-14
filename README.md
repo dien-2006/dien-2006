@@ -1,4 +1,4 @@
-# Hello, I'm Nguyen Ngoc Dien 👋
+# Hi, I'm Nguyen Ngoc Dien 👋
 
 ## About Me
 I’m a second-year Data Engineering student with a strong interest in building data systems and exploring the potential of artificial intelligence.
