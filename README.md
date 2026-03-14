@@ -1,5 +1,4 @@
-# Hi, I'm Nguyen Ngoc Dien 👋
-
+# Hello, I'm Nguyen Ngoc Dien 👋
 ## About Me
 I’m a second-year Data Engineering student with a strong interest in building data systems and exploring the potential of artificial intelligence.
 I’m especially interested in how data engineering forms the foundation of modern technology — from designing efficient data pipelines to enabling intelligent, data-driven solutions. For me, technology is most meaningful when it transforms raw information into systems that create real-world value.
