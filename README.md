@@ -29,3 +29,4 @@ Alongside my interest in data infrastructure, I’m also passionate about AI and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/diện-nguyễn-b92698371)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ngoc_dien06/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dinnguyn242?_r=1&_t=ZS-94iB9dwPkF2)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Di%E1%BB%87nNguy%E1%BB%85n-d6k)
