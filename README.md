@@ -11,9 +11,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
- 
-
 </p>
+
 ## About Me
 I’m a second-year student majoring in Data Engineering at the Posts and Telecommunications Institute of Technology (PTIT) in Hanoi, Vietnam.
 I’m especially interested in how data engineering forms the foundation of modern technology — from designing efficient data pipelines to enabling intelligent, data-driven solutions. For me, technology is most meaningful when it transforms raw information into systems that create real-world value.
